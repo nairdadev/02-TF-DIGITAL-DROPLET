@@ -3,12 +3,7 @@
 **Primer paso:** Descargar/instalar Terraform desde la  [Web de Terraform](https://www.terraform.io/)
 
 **Segundo paso:** Genera Api key de Digital Ocean esto se encuentra en: account -> api, ahí presionar el botón que dice "Generate new Token" 
-
-**Tercer paso:** Crear carpeta de Terraform en donde estarán los archivos.
-
-**Cuarto paso:** Generar el archivo _provider.tf
-
-**Quinto paso:** Generar el archivo main.tf 
+ 
 __________________
 **Comandos Terraform:**
 
